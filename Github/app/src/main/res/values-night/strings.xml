@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="detail">Detail</string>
+    <string name="search">Search</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="title_favorite">List Favorite</string>
+    <string name="username">username</string>
+    <string name="followers_text">Followers</string>
+    <string name="following_text">Following</string>
+</resources>
